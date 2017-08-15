@@ -20,3 +20,15 @@ Just say yes.
 Machines are 01-48
 
 CTRL/D can be used to exit.
+
+
+For Windows, the program is MobaXTerm
+
+To use it, look for "New Session" in upper left,
+
+Then "ssh" upper left.
+
+Then enter `csil-15.cs.ucsb.edu` (or whatever number)
+where it asks for host.
+
+Then, you'll be prompted for username and password.
