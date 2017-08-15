@@ -32,3 +32,17 @@ Then enter `csil-15.cs.ucsb.edu` (or whatever number)
 where it asks for host.
 
 Then, you'll be prompted for username and password.
+
+# If you get this message when running `idle3`
+
+or any other program that needs graphics...
+
+```
+_tkinter.TclError: no display name and no $DISPLAY environment variable
+```
+
+On Windows: Use MobaXTerm instead of a program such as PuTTY.
+
+On Mac: You need to install XQuartz ... go to XQuartz.org, download, follow instructions, and try again.
+
+Also: on Mac or Linux, maybe you forgot the -X part.
