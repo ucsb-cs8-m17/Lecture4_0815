@@ -46,3 +46,11 @@ On Windows: Use MobaXTerm instead of a program such as PuTTY.
 On Mac: You need to install XQuartz ... go to XQuartz.org, download, follow instructions, and try again.
 
 Also: on Mac or Linux, maybe you forgot the -X part.
+
+# Testing with pytest
+
+```
+python3 -m pytest areaCalc.py
+```
+
+Using `import pytest` and `pytest.approx()`
