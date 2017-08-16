@@ -2,7 +2,7 @@
 
 See also:  https://ucsb-cs8-m17.github.io/lectures/lect04/
 
-# Logging into CSIL from MacOS or Linux
+
 
 ```
 ssh -X pconrad@csil-21.cs.ucsb.edu
